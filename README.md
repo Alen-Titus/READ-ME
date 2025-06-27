@@ -11,9 +11,9 @@
 ---
 
 🚩 I design and develop tools that:
-- 🎯 Simulate advanced adversary behavior on Windows systems
-- 📡 Auto-generate exploits from real CVEs using AI
-- 🧬 Parse and analyze Windows Security Event Logs for stealth and detection
+- 🎯 Simulate advanced adversary behavior on systems, applications and codes
+- 📡 Generate exploits and birth new attack scripts from real CVEs using AI
+- 🧬 Parse and analyze System's Security Event Logs for stealth and detection
 - 🤖 Leverage local LLMs for actionable threat intel and attack logic
 
 🧪 Everything is built with real-world attack simulation and red team ops in mind.  
