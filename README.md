@@ -22,7 +22,7 @@ No fluff — just **offensive engineering** at scale.
 ---
 
 ### 🛠️ Tech Arsenal
-`Python` • `PowerShell` • `WinRM` • `Streamlit` • `LLMs (Ollama, LLaMA2)` • `Exploit-DB` • `Windows Internals`
+`Python` • `PowerShell` • `WinRM` • `Streamlit` • `LLMs ` • `Exploit-DB` • `Windows Internals`
 
 ---
 
